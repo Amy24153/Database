@@ -50,3 +50,5 @@ def print_all_aircraft():
         break
     else:
         print("That was not an option\n")
+    
+    print('hello')
